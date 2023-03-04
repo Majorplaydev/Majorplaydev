@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Majorplaydev
-- 👀 I’m interested in working and learning new things on board
-- 🌱 I’m currently learning and working on react
-- 💞️ I’m looking to collaborate with any willing to work and grow with me
+- 👀 I’m interested in working and learning new technologies on board
+- 🌱 I’m currently learning and working with react and Solidity
+- 💞️ I’m looking to collaborate with like-minded innovators who are willing to dream, work and grow with me
 - 📫 How to reach me ... Gmail-- victorayoonileere@gmail.com
 
 <!---
