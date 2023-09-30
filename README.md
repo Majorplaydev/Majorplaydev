@@ -35,7 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majorplaydev&" alt="majorplaydev" /></p>
 
-
+[![An image of @majorplaydev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/majorplaydev)](https://holopin.io/@majorplaydev)
 - 👋 Hi, I’m @Majorplaydev
 <!---
 Majorplaydev/Majorplaydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
