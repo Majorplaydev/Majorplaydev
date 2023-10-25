@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majorplaydev&label=Profile%20views&color=0e75b6&style=flat" alt="majorplaydev" /> </p>
 
-
-<p align="left">[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Majorplaydev/github-profile-trophy) </p>
-
+ [![trophy](https://github-profile-trophy.vercel.app/?username=majorplaydev)](https://github.com/majorplaydev/github-profile-trophy)
 <p align="left"> <a href="https://twitter.com/onile_victor" target="blank"><img src="https://img.shields.io/twitter/follow/@onile_victor?logo=twitter&style=for-the-badge" alt="@onile_victor" /></a> </p>
 
 - 🌱 I’m currently learning **C, solidity, React, Express**
